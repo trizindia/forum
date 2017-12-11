@@ -1,9 +1,9 @@
 ---
 layout: category
-title: General Help
+title: General
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
-id: 2736939
+summary: All General Discussions about TRIZ
+id: 4355652
 group-id: help
 ---
 
